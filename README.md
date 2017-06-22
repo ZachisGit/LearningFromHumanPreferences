@@ -1,2 +1,2 @@
 # IconCreator
-Merges multiple input images to one icon, by scaling them to specified sizes.
+Merges multiple input images to one .ico file, by scaling them to specified sizes.
