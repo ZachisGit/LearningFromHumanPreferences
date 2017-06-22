@@ -1,2 +1,2 @@
 # IconCreator
-Creates an icon from input images
+Merges multiple input images to one icon, by scaling them to specified sizes.
